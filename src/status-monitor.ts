@@ -5,13 +5,15 @@ import path from 'path';
 import onFinished from 'on-finished';
 import { NextFunction } from 'express';
 import Web3 from 'web3';
+import fetch from 'node-fetch';
 
-let cpu;
-let totalCpu = 0;
-let memory;
-let totalMemory = 0;
-let count = 0;
-let heapUsage;
+let cpu: string;
+let totalCpu: number = 0;
+let memory: string;
+let totalMemory: number = 0;
+let count: number = 0;
+let heapUsage: string;
+let selectedNetwork: string = '';
 
 const buildMemoryAvg = () => {
   const amount = totalMemory / count;
@@ -75,19 +77,20 @@ function logger(req: any, res: any, next: NextFunction) {
     if (statusCode > 299) {
       RequisitionFails++;
     }
-
+    console.log(statusCode);
     if (statusCode >= 200 && statusCode <= 299) {
       RequisitionSucess++;
     }
 
     let data = `
-      All requisition information: ${method} ${url} ${statusCode} ${ms.toFixed(
+      All requisition information: ${selectedNetwork} ${method} ${url} ${statusCode} ${ms.toFixed(
       3
     )}ms;\n
       Method: ${method};\n
       URL: ${url};\n
       statusCode: ${statusCode};\n
       Response Time: ${ms.toFixed(3)}ms;\n
+      Selected Network: ${selectedNetwork}\n
       Total request: ${requistionCount};\n
       Total Successful Requests: ${RequisitionSucess};\n
       Total failed requests: ${RequisitionFails};\n
@@ -176,10 +179,57 @@ const selectNetwork = (network: 'fantom' | 'avalanche'): any => {
     throw new Error('Invalid Network');
   }
 
+  selectedNetwork = network;
+
   const provider = new Web3.providers.HttpProvider(UrlConnection);
   const { eth } = new Web3(provider);
 
   return eth;
+};
+
+type config = {
+  router: string;
+  requestMethod: 'GET' | 'POST' | 'PUT' | 'PATCH';
+  numberOfRequest: number;
+  intervalBetweenRequest?: number;
+  headers?: { [key: string]: string };
+};
+
+export const workloadContract = async ({
+  router,
+  requestMethod,
+  numberOfRequest,
+  intervalBetweenRequest,
+  headers,
+}: config) => {
+  if (!intervalBetweenRequest) {
+    intervalBetweenRequest = 5000;
+  }
+  if (!headers) {
+    headers = { 'Content-Type': 'application/json' };
+  }
+  for (let i = 0; i < numberOfRequest; i++) {
+    const config =
+      requestMethod !== 'GET'
+        ? {
+            method: requestMethod,
+            body: JSON.stringify({ assistedTime: 60 }),
+            headers: headers,
+          }
+        : {
+            method: requestMethod,
+            headers: headers,
+          };
+    setTimeout(async () => {
+      const result = await fetch(router, config);
+
+      if (result.status >= 200 && result.status <= 299) {
+        console.log('success');
+      } else {
+        console.log('error');
+      }
+    }, intervalBetweenRequest * i);
+  }
 };
 
 export { interval, logger, selectNetwork };

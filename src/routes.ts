@@ -16,7 +16,7 @@ routes.get('/', (req: any, res: any, next: any) => {
 routes.patch('/updateVideo', async (req: any, res: any) => {
   try {
     const response = await updateInfo(
-      '0xBFc6A00D8E7b3A2b63Ef598C7488cCED737f90A2', //address contract in network fantom
+      '0x824eBef88f7395eA699CC38CC2C62567fA1bB0A7', //address contract in network fantom
       60
     );
     res.status(200).json({ data: response });
@@ -28,7 +28,7 @@ routes.patch('/updateVideo', async (req: any, res: any) => {
 routes.get('/getInfoVideo', async (req: any, res: any) => {
   try {
     const response = await getInfoVideo(
-      '0xBFc6A00D8E7b3A2b63Ef598C7488cCED737f90A2'
+      '0x824eBef88f7395eA699CC38CC2C62567fA1bB0A7'
     );
     res.status(200).json({ data: response });
   } catch (error) {
@@ -38,7 +38,7 @@ routes.get('/getInfoVideo', async (req: any, res: any) => {
 routes.get('/balanceOf', async (req: any, res: any) => {
   try {
     const response = await balanceOf(
-      '0xBFc6A00D8E7b3A2b63Ef598C7488cCED737f90A2'
+      '0x824eBef88f7395eA699CC38CC2C62567fA1bB0A7'
     );
     res.status(200).json({ data: response });
   } catch (error) {

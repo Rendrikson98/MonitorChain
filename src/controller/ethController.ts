@@ -1,7 +1,7 @@
 import { videoContract } from '../constants/contracts';
 import { selectNetwork } from '../status-monitor';
 
-const eth = selectNetwork('fantom');
+const eth = selectNetwork('avalanche');
 
 export const updateInfo = async (
   contractAddress: string,
