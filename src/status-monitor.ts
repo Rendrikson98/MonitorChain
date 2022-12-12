@@ -165,14 +165,17 @@ const interval = (time: number) => {
 const networkEndpoint = {
   fantom: 'https://rpc.testnet.fantom.network/',
   avalanche: 'https://api.avax-test.network/ext/bc/C/rpc',
+  polygon: 'https://rpc-mumbai.maticvigil.com/',
 };
 
-const selectNetwork = (network: 'fantom' | 'avalanche'): any => {
+const selectNetwork = (network: 'fantom' | 'avalanche' | 'polygon'): any => {
   const UrlConnection =
     network === 'fantom'
       ? networkEndpoint.fantom
       : network === 'avalanche'
       ? networkEndpoint.avalanche
+      : network === 'polygon'
+      ? networkEndpoint.polygon
       : null;
 
   if (UrlConnection === null) {
