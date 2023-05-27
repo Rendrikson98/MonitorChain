@@ -1,7 +1,7 @@
 import { videoContract } from '../constants/contracts';
-import { selectNetwork } from '../status-monitor';
+import { selectNetwork, setGasUsed } from '../status-monitor';
 
-const eth = selectNetwork('avalanche');
+const eth = selectNetwork('ganache');
 
 export const updateInfo = async (
   contractAddress: string,
@@ -10,13 +10,15 @@ export const updateInfo = async (
   const contract = new eth.Contract(videoContract.abi as any, contractAddress);
   try {
     eth.accounts.wallet.add(
-      '3364a709fdaf8aa63f6252b179de5a4e7d9b8cccf34d80a6fafdc55c5cd51cfc'
+      '0x7f80d85ddf1279737caece1c19c62e3384316e9c58cf1902333f92b08fb1c51d'
     );
+
     const response = await contract.methods.updateInfoVideo(assistedTime).send({
-      from: '0xe0C227BC58e68603BE91D6D2d163bc07367c3315',
+      from: videoContract.addressPlatform,
       gas: 6721975,
       gasPrice: 25000000000,
     });
+    setGasUsed(response.gasUsed); //gás usado na requisição
 
     return response;
   } catch (error: any) {
@@ -39,21 +41,6 @@ export const getInfoVideo = async (contractAddress: string) => {
     return response;
   } catch (error: any) {
     console.log('OCORREU UM ERRO NA BUSCA');
-    console.log(error);
-    throw new Error(error.message);
-  }
-};
-
-export const balanceOf = async (contractAddress: string) => {
-  const contract = new eth.Contract(videoContract.abi as any, contractAddress);
-  try {
-    const data = await contract.methods.balanceOf().call();
-
-    console.log(data);
-
-    return data;
-  } catch (error: any) {
-    console.log('OCORREU UM ERRO NA CONSULTA DO SALDO DO CONTRATO');
     console.log(error);
     throw new Error(error.message);
   }

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Socket.IO chat</title>
+    <style>
+      body { 
+
+        margin: 0; 
+        padding-bottom: 3rem; 
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+      }
+
+      .green{
+        color: lightgreen
+      }
+
+      .blue{
+        color: lightblue;
+      }
+
+      .red{
+        color: lightcoral;
+      }
+      
+      .orange{
+        color: lightsalmon
+      }
+      
+      .gray{
+        color: lightslategray
+      }
+
+      .container{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+      }
+
+      header{
+
+        color: gray;
+        text-decoration: underline;
+      }
+
+      .title, header{
+        display: flex;
+        width: 100%;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+        margin: 20px 0;
+        font-size: 25px;
+        font-weight: 800;
+        position: relative;
+      }
+
+      .donwload{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        font-size: 12px;
+        width: 100px;
+        height: 20px;
+        background-color: lightgray;
+        top: 0;
+        right: 20px;
+        transition: filter 0.2s;
+        gap: 5px;
+        border-radius: 5px;
+      }
+
+      .donwload:hover{
+        cursor: pointer;
+        filter: brightness(0.9);
+      }
+
+      .containerCard{
+        display: flex;
+        gap: 20px;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 250px;
+        height: 150px;
+        border-radius: 10px;
+        background-color: white;
+        box-shadow: 8px 8px 10px -10px rgba(0, 0, 0, 0.75);
+      }
+
+      .card > span {
+        margin-top: 20px;
+        font-size: 35px;
+        font-weight: 800;
+      }
+
+      .card > p {
+        font-size: 15px;
+        font-weight: bold;
+      }
+
+      .containerGraphs{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50PX;
+        margin: 50px 0;
+        flex-wrap: wrap;
+      }
+
+      .graph{
+        min-width: 600px;
+        width: 45%;
+        height: auto;
+      }
+      .graphResponseTime{
+        min-width: 600px;
+        width: 30%;
+        height: auto;
+        margin-bottom: 25px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>MonitorChain - Application Resource Monitoring System</header>
+      <div class="title">
+        Hardware Information
+        <div class="donwload" onclick="downloadHardware()">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAg0lEQVR4nO2UOwqAMBBE3zWsLCxsLLSw8vYGPYSghYVgIR4hErAQ/58EQfNgIBCYIRN24U9kgBwlTATImWzAAmkr+l5F1Yrplso7ATHQnTDvgeTuKyKg3TFXdyEP8YF6xbwBAjThAsXEXP2Ph2YcIB+3qjpb9CMuDJY8kDAdkBoo4CUG+aZ0PJTVTQsAAAAASUVORK5CYII=">
+          Report
+        </div>
+      </div>
+      <div class="containerCard">
+        <div class="card green">
+          <span id='avgCPU'>-</span>
+          <p>AVG CPU</p>
+        </div>
+        <div class="card blue">
+          <span id='avgMemory'>-</span>
+          <p >AVG Memory</p>
+        </div>
+        <div class="card red">
+          <span id='avgStack'>-</span>
+          <p>AVG Stack</p>
+        </div>
+      </div>
+      <div class="containerGraphs">
+        <div class="graph">
+          <canvas id="CPUGraph"></canvas>
+        </div>
+        <div class="graph">
+          <canvas id="Memory"></canvas>
+        </div>
+      </div>
+      <div class="title">Requisition Information  
+        <div class="donwload" onclick="downloadRequisition()">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAg0lEQVR4nO2UOwqAMBBE3zWsLCxsLLSw8vYGPYSghYVgIR4hErAQ/58EQfNgIBCYIRN24U9kgBwlTATImWzAAmkr+l5F1Yrplso7ATHQnTDvgeTuKyKg3TFXdyEP8YF6xbwBAjThAsXEXP2Ph2YcIB+3qjpb9CMuDJY8kDAdkBoo4CUG+aZ0PJTVTQsAAAAASUVORK5CYII=">
+        Report
+      </div></div>
+      <div class="containerCard">
+        <div class="card green">
+          <span id='requirements'>-</span>
+          <p>Total Request</p>
+        </div>
+        <div class="card blue">
+          <span id='successfulRequests'>-</span>
+          <p>Total Successful requests</p>
+        </div>
+        <div class="card red">
+          <span id='failedRequests'>-</span>
+          <p>Total Failed Request</p>
+        </div>
+        <div class="card orange">
+          <span id='gasUnitUsed'>-</span>
+          <p>Total Gas Unit Used</p>
+        </div>
+        <div class="card gray">
+          <span id='latestStatusCode'>-</span>
+          <p>Latest Method Request</p>
+        </div>
+      </div>
+      <div class="containerGraphs">
+        <div class="graphResponseTime">
+          <canvas id="responseTime"></canvas>
+        </div>
+      </div>
+      
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script>
+      function downloadRequisition() {
+        fetch('/downloadRequisition')
+          .then(response => {
+            if (response.ok) {
+              return response.blob();
+            } else {
+              throw new Error('Erro ao fazer o download do arquivo.');
+            }
+          })
+          .then(blob => {
+            // Criar um link temporário para fazer o download do arquivo
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'arquivo.txt';
+            a.click();
+  
+            // Limpar o link temporário
+            URL.revokeObjectURL(url);
+          })
+          .catch(error => console.error(error));
+      }
+      function downloadHardware() {
+        fetch('/downloadHardware')
+          .then(response => {
+            if (response.ok) {
+              return response.blob();
+            } else {
+              throw new Error('Erro ao fazer o download do arquivo.');
+            }
+          })
+          .then(blob => {
+            // Criar um link temporário para fazer o download do arquivo
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'arquivo.txt';
+            a.click();
+  
+            // Limpar o link temporário
+            URL.revokeObjectURL(url);
+          })
+          .catch(error => console.error(error));
+      }
+    </script>
+    <script>
+      var socket = io();
+
+      var cpuLabels = []
+      var cpuData = []
+
+      const CPUGraph = document.getElementById('CPUGraph');
+
+      const CPUChar = new Chart(CPUGraph, {
+        type: 'line',
+        data: {
+        labels: [],
+        datasets: [{
+          label: 'Percentage of CPU used',
+          data: [],
+          fill: false,
+          borderColor: 'lightgreen',
+          tension: 0.1
+        }]
+      },
+      options: {
+        animation: false
+      }
+      }); 
+
+      var memoryLabels = []
+      var memoryData = []
+
+      const Memory = document.getElementById('Memory');
+
+      const MemoryChar = new Chart(Memory, {
+        type: 'line',
+        data: {
+        labels: [],
+        datasets: [{
+          label: 'MB of Memory used',
+          data: [],
+          fill: false,
+          borderColor: 'lightblue',
+          tension: 0.1
+        }]
+      },
+      options: {
+        animation: false
+      }
+      }); 
+
+      function updateGraph(char, data, labels) {
+
+        if(labels.length > 10 && data.length > 10){
+          labels.shift()
+          data.shift()
+        }
+        char.data.labels = labels;
+        char.data.datasets[0].data = data;
+
+        char.update();
+      }
+
+
+      socket.on('hardware monitor', function(data) {
+     
+      const avgCPU = document.getElementById('avgCPU');
+      avgCPU.textContent = data.avgTotalCPU;
+
+      const avgMemory = document.getElementById('avgMemory');
+      avgMemory.textContent = data.avgTotalMemory;
+
+      const avgStack = document.getElementById('avgStack');
+      avgStack.textContent = data.heapUsage;
+
+      const hourAndMinute = new Date();
+
+      cpuLabels.push(`${hourAndMinute.getHours()}:${hourAndMinute.getMinutes()}`);
+      cpuData.push(data.cpu.split('%')[0]);
+
+      updateGraph(CPUChar, cpuData, cpuLabels);
+
+
+      memoryLabels.push(`${hourAndMinute.getHours()}:${hourAndMinute.getMinutes()}`);
+      memoryData.push(data.memory.split('MB')[0]);
+      
+      updateGraph(MemoryChar, memoryData, memoryLabels);
+      });
+
+      var responseTimeLabels = []
+      var responseTimeData = []
+
+
+      const ResponseTime = document.getElementById('responseTime');
+
+      const ResponseTimeChar = new Chart(ResponseTime, {
+        type: 'line',
+        data: {
+        labels: [],
+        datasets: [{
+          label: 'Response Time MS',
+          data: [],
+          fill: false,
+          borderColor: 'lightblue',
+          tension: 0.1
+        }]
+      },
+      options: {
+        animation: false
+      }
+      }); 
+
+
+      socket.on('requisition', function(data) {
+        
+        const requirements = document.getElementById('requirements');
+        requirements.textContent = data.requistionCount;
+
+        const successfulRequests = document.getElementById('successfulRequests');
+        successfulRequests.textContent = data.RequisitionSucess;
+
+        const failedRequests = document.getElementById('failedRequests');
+        failedRequests.textContent = data.RequisitionFails;
+
+        const gasUnitUsed = document.getElementById('gasUnitUsed');
+
+        gasUnitUsed.textContent = data.amountGasUsed;
+
+        const latestStatusCode = document.getElementById('latestStatusCode');
+        latestStatusCode.textContent = data.method
+
+        const hourAndMinute = new Date();
+
+        responseTimeLabels.push(`${hourAndMinute.getHours()}:${hourAndMinute.getMinutes()}`);
+        responseTimeData.push(data.responseTime);
+        
+        updateGraph(ResponseTimeChar, responseTimeData, responseTimeLabels);
+
+      });
+
+      socket.on("connect_error", (err) => {
+      console.log(`connect_error due to ${err.message}`);
+    });      
+    </script>
+  </body>
+</html>

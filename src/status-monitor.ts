@@ -5,7 +5,6 @@ import path from 'path';
 import onFinished from 'on-finished';
 import { NextFunction } from 'express';
 import Web3 from 'web3';
-import fetch from 'node-fetch';
 
 let cpu: string;
 let totalCpu: number = 0;
@@ -13,7 +12,6 @@ let memory: string;
 let totalMemory: number = 0;
 let count: number = 0;
 let heapUsage: string;
-let selectedNetwork: string = '';
 
 const buildMemoryAvg = () => {
   const amount = totalMemory / count;
@@ -44,8 +42,16 @@ var requistionCount = 0;
 var RequisitionSucess = 0;
 var RequisitionFails = 0;
 
+var amountGasUsed: number = 0;
+
+function setGasUsed(gasUsed: number): void {
+  if (gasUsed) {
+    amountGasUsed += gasUsed;
+  }
+}
+
 //Monitora as requisições realizadas
-function logger(req: any, res: any, next: NextFunction) {
+function logger(req: any, res: any, next: NextFunction, io: any) {
   // request data
   req._startAt = undefined;
   req._startTime = undefined;
@@ -56,9 +62,8 @@ function logger(req: any, res: any, next: NextFunction) {
 
   recordStartTime.call(req);
 
-  requistionCount++;
-
   function logRequest() {
+    requistionCount++;
     recordStartTime.call(res);
     if (!req._startAt || !res._startAt) {
       return;
@@ -74,28 +79,38 @@ function logger(req: any, res: any, next: NextFunction) {
 
     let method = req.method;
 
-    if (statusCode > 299) {
+    if (statusCode > 399) {
       RequisitionFails++;
     }
-    console.log(statusCode);
-    if (statusCode >= 200 && statusCode <= 299) {
+
+    if (statusCode >= 200 && statusCode <= 399) {
       RequisitionSucess++;
     }
 
     let data = `
-      All requisition information: ${selectedNetwork} ${method} ${url} ${statusCode} ${ms.toFixed(
+        Todas as informações da requisição: ${method} ${url} ${statusCode} ${ms.toFixed(
       3
     )}ms;\n
-      Method: ${method};\n
-      URL: ${url};\n
-      statusCode: ${statusCode};\n
-      Response Time: ${ms.toFixed(3)}ms;\n
-      Selected Network: ${selectedNetwork}\n
-      Total request: ${requistionCount};\n
-      Total Successful Requests: ${RequisitionSucess};\n
-      Total failed requests: ${RequisitionFails};\n
-      ------------------------------------
-      `;
+        Método: ${method};\n
+        URL: ${url};\n
+        statusCode: ${statusCode};\n
+        Tempo de respostas: ${ms.toFixed(3)}ms;\n
+        Total de unidade de gás utilizado: ${amountGasUsed}\n
+        Total de requisições: ${requistionCount};\n
+        Total de requisições com sucesso: ${RequisitionSucess};\n
+        Total de requisições com falha: ${RequisitionFails};\n
+        ------------------------------------
+        `;
+    io.emit('requisition', {
+      method,
+      url,
+      statusCode,
+      responseTime: ms.toFixed(3),
+      amountGasUsed,
+      requistionCount,
+      RequisitionSucess,
+      RequisitionFails,
+    });
 
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir);
@@ -116,8 +131,41 @@ function logger(req: any, res: any, next: NextFunction) {
   next();
 }
 
+export const downloadRequisition = (req: any, res: any, next: NextFunction) => {
+  const filePath = path.join(
+    __dirname,
+    'log',
+    `APIRequisitionLog-${timestamp}.txt`
+  );
+  const fileName = path.basename(filePath);
+
+  console.log(filePath);
+
+  res.download(filePath, fileName, (err: any) => {
+    if (err) {
+      console.error('Erro ao fazer o download do arquivo:', err);
+      res.status(500).send('Erro ao fazer o download do arquivo.');
+    }
+  });
+};
+
+export const downloadHardware = (req: any, res: any, next: NextFunction) => {
+  const filePath = path.join(
+    __dirname,
+    'log',
+    `APIMonitoringLog-${timestamp}.txt`
+  );
+  const fileName = path.basename(filePath);
+
+  res.download(filePath, fileName, (err: any) => {
+    if (err) {
+      console.error('Erro ao fazer o download do arquivo:', err);
+      res.status(500).send('Erro ao fazer o download do arquivo.');
+    }
+  });
+};
 //Monitora os recursos utilizados pela API
-const compute = (cb: any) => {
+const compute = (cb: any, io: any) => {
   pidusage(process.pid, function (err, stats) {
     cpu = `${stats.cpu.toFixed(1)}%`;
     totalCpu = totalCpu + Number(stats.cpu.toFixed(1));
@@ -132,12 +180,21 @@ const compute = (cb: any) => {
 
     let data = `
     CPU: ${cpu};\n
-    Memory: ${memory};\n
-    Average Stack Usage: ${heapUsage};\n
-    Average CPU Usage: ${buildTotalCpuAvg()};\n
-    Average Memory Usage: ${buildMemoryAvg()};\n
+    Memória: ${memory};\n
+    Média de uso da pilha: ${heapUsage};\n
+    Média de uso de CPU: ${buildTotalCpuAvg()};\n
+    Média de uso de Memória: ${buildMemoryAvg()};\n
     ------------------------------------
     `;
+
+    io.emit('hardware monitor', {
+      cpu,
+      memory,
+      heapUsage,
+      avgTotalCPU: buildTotalCpuAvg(),
+      avgTotalMemory: buildMemoryAvg(),
+    });
+
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir);
     }
@@ -154,35 +211,26 @@ const compute = (cb: any) => {
   });
 };
 
-const interval = (time: number) => {
+const interval = (time: number, io: any) => {
   setTimeout(() => {
     compute(() => {
-      interval(time);
-    });
+      interval(time, io);
+    }, io);
   }, time);
 };
 
 const networkEndpoint = {
+  ganache: 'http://127.0.0.1:7545',
   fantom: 'https://rpc.testnet.fantom.network/',
   avalanche: 'https://api.avax-test.network/ext/bc/C/rpc',
-  polygon: 'https://rpc-mumbai.maticvigil.com/',
 };
 
-const selectNetwork = (network: 'fantom' | 'avalanche' | 'polygon'): any => {
-  const UrlConnection =
-    network === 'fantom'
-      ? networkEndpoint.fantom
-      : network === 'avalanche'
-      ? networkEndpoint.avalanche
-      : network === 'polygon'
-      ? networkEndpoint.polygon
-      : null;
+const selectNetwork = (network: 'ganache' | 'fantom' | 'avalanche'): any => {
+  const UrlConnection = networkEndpoint[network] ?? null;
 
   if (UrlConnection === null) {
     throw new Error('Invalid Network');
   }
-
-  selectedNetwork = network;
 
   const provider = new Web3.providers.HttpProvider(UrlConnection);
   const { eth } = new Web3(provider);
@@ -190,49 +238,4 @@ const selectNetwork = (network: 'fantom' | 'avalanche' | 'polygon'): any => {
   return eth;
 };
 
-type config = {
-  router: string;
-  requestMethod: 'GET' | 'POST' | 'PUT' | 'PATCH';
-  numberOfRequest: number;
-  intervalBetweenRequest?: number;
-  headers?: { [key: string]: string };
-};
-
-export const workloadContract = async ({
-  router,
-  requestMethod,
-  numberOfRequest,
-  intervalBetweenRequest,
-  headers,
-}: config) => {
-  if (!intervalBetweenRequest) {
-    intervalBetweenRequest = 5000;
-  }
-  if (!headers) {
-    headers = { 'Content-Type': 'application/json' };
-  }
-  for (let i = 0; i < numberOfRequest; i++) {
-    const config =
-      requestMethod !== 'GET'
-        ? {
-            method: requestMethod,
-            body: JSON.stringify({ assistedTime: 60 }),
-            headers: headers,
-          }
-        : {
-            method: requestMethod,
-            headers: headers,
-          };
-    setTimeout(async () => {
-      const result = await fetch(router, config);
-
-      if (result.status >= 200 && result.status <= 299) {
-        console.log('success');
-      } else {
-        console.log('error');
-      }
-    }, intervalBetweenRequest * i);
-  }
-};
-
-export { interval, logger, selectNetwork };
+export { interval, logger, selectNetwork, setGasUsed };

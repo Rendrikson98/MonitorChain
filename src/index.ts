@@ -1,5 +1,5 @@
-import { app } from './server';
+import { server } from './server';
 
-app.listen(3000, () => {
+server.listen(3000, () => {
   console.log(`servidor Online - acesse: http://localhost:3000/`);
 });
