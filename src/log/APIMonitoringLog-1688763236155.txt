@@ -1,0 +1,4909 @@
+
+    CPU: 0.0%;
+
+    Memória: 171.1MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.0%;
+
+    Média de uso de Memória: 171.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.0%;
+
+    Média de uso de Memória: 171.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.0%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.0%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.1%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.1%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.2MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.1%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 171.3MB;
+
+    Média de uso da pilha: 137.4MB;
+
+    Média de uso de CPU: 0.1%;
+
+    Média de uso de Memória: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 4.7%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 169.1MB;
+
+    ------------------------------------
+    
+    CPU: 6.2%;
+
+    Memória: 140.3MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.8%;
+
+    Média de uso de Memória: 167.2MB;
+
+    ------------------------------------
+    
+    CPU: 4.7%;
+
+    Memória: 139.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 1.1%;
+
+    Média de uso de Memória: 165.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 1.0%;
+
+    Média de uso de Memória: 164.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 1.0%;
+
+    Média de uso de Memória: 162.6MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 140.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 1.0%;
+
+    Média de uso de Memória: 161.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.9%;
+
+    Média de uso de Memória: 160.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.9%;
+
+    Média de uso de Memória: 159.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.9%;
+
+    Média de uso de Memória: 158.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.8%;
+
+    Média de uso de Memória: 157.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.8%;
+
+    Média de uso de Memória: 157.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 156.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 155.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 155.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 140.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 154.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 154.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 140.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 153.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 153.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.7%;
+
+    Média de uso de Memória: 152.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.6%;
+
+    Média de uso de Memória: 152.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.6%;
+
+    Média de uso de Memória: 152.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.6%;
+
+    Média de uso de Memória: 151.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.6%;
+
+    Média de uso de Memória: 151.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.6%;
+
+    Média de uso de Memória: 151.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.6%;
+
+    Média de uso de Memória: 150.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 150.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 150.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 150.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 149.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 149.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 149.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 149.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.5%;
+
+    Média de uso de Memória: 149.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 148.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 148.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 148.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 148.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 148.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 148.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 147.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 147.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 146.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 146.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 140.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 146.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 146.5MB;
+
+    ------------------------------------
+    
+    CPU: 3.2%;
+
+    Memória: 140.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 146.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 146.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 140.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 146.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 146.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 146.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 146.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 146.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.9MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 141.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.8MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.4%;
+
+    Média de uso de Memória: 145.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 145.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.9MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.7MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.6MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 141.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.5MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.3MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 144.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.7MB;
+
+    ------------------------------------
+    
+    CPU: 3.0%;
+
+    Memória: 141.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.6MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 3.1%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.7MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.8MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 3.2%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 107.9MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 141.9MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.4MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.0MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.7MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.8MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.1MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.2MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.7MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 142.7MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.8MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.9MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.3MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.7MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.8MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.8MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.9MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.0MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.3%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.0MB;
+
+    Média de uso da pilha: 108.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.4MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.5MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.7MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.8MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.8MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.9MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.0MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.0MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.1MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.2MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.6MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.7MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.8MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.9MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 142.9MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.0MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.1MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.1MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.2MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 108.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.1MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.2MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.2MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.3MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.4MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.4MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.5MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.6MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 143.2MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.3MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.4MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.4MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.5MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.6MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.6MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 143.4MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.5MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.5MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.6MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.5MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.5MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.6MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.6MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.3MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.3MB;
+
+    Média de uso da pilha: 109.6MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.7MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 144.3MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.4MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.5MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 143.8MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.3MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 144.4MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.4MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.5MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 143.9MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.0MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.3MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 144.3MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.4MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.5MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.6MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.7MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.7MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.1MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.2MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.3MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.4MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.4MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.5MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.6MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.7MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.7MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.8MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memória: 145.0MB;
+
+    Média de uso da pilha: 109.9MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.4MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.5MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.5MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.6MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.7MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memória: 144.7MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.8MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.9MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.9MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 145.0MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 145.1MB;
+
+    Média de uso da pilha: 110.1MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memória: 144.5MB;
+
+    Média de uso da pilha: 110.4MB;
+
+    Média de uso de CPU: 0.2%;
+
+    Média de uso de Memória: 143.3MB;
+
+    ------------------------------------
+    
