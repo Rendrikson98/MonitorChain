@@ -1,0 +1,55 @@
+
+    All request information: GET /getInfoVideo 200 17.851ms;
+
+        Method: GET;
+
+        URL: /getInfoVideo;
+
+        statusCode: 200;
+
+        Response time: 17.851ms;
+
+        Total unit of gas used: 0
+
+        Total requests: 1;
+
+        Total successful requests: 1;
+
+        Total failed requests: 0;
+
+        Total cost(US$): 0;
+
+        Current cryptocurrency price(US$): 2022.39;
+
+        cryptocurrency: ETH;
+
+        Gas Price(Gwei): 20000000000
+        ------------------------------------
+        
+    All request information: PATCH /updateVideo 400 6.558ms;
+
+        Method: PATCH;
+
+        URL: /updateVideo;
+
+        statusCode: 400;
+
+        Response time: 6.558ms;
+
+        Total unit of gas used: 0
+
+        Total requests: 2;
+
+        Total successful requests: 1;
+
+        Total failed requests: 1;
+
+        Total cost(US$): 0;
+
+        Current cryptocurrency price(US$): 2022.39;
+
+        cryptocurrency: ETH;
+
+        Gas Price(Gwei): 20000000000
+        ------------------------------------
+        

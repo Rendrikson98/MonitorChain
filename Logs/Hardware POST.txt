@@ -1,0 +1,1489 @@
+
+    CPU: 1.6%;
+
+    Memory: 201.5MB;
+
+    Average stack usage: 159.4MB;
+
+    Average CPU Usage: 1.6%;
+
+    Average memory Usage: 201.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 201.5MB;
+
+    Average stack usage: 159.4MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 201.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 201.5MB;
+
+    Average stack usage: 159.4MB;
+
+    Average CPU Usage: 0.5%;
+
+    Average memory Usage: 201.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 201.5MB;
+
+    Average stack usage: 159.4MB;
+
+    Average CPU Usage: 0.4%;
+
+    Average memory Usage: 201.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 201.9MB;
+
+    Average stack usage: 159.4MB;
+
+    Average CPU Usage: 0.3%;
+
+    Average memory Usage: 201.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 201.9MB;
+
+    Average stack usage: 159.4MB;
+
+    Average CPU Usage: 0.3%;
+
+    Average memory Usage: 201.6MB;
+
+    ------------------------------------
+    
+    CPU: 6.3%;
+
+    Memory: 164.5MB;
+
+    Average stack usage: 127.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 196.3MB;
+
+    ------------------------------------
+    
+    CPU: 9.3%;
+
+    Memory: 158.2MB;
+
+    Average stack usage: 116.6MB;
+
+    Average CPU Usage: 2.2%;
+
+    Average memory Usage: 191.6MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 157.9MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 2.1%;
+
+    Average memory Usage: 187.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.0MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.9%;
+
+    Average memory Usage: 184.8MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 158.1MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.9%;
+
+    Average memory Usage: 182.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.2MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.7%;
+
+    Average memory Usage: 180.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.3MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.6%;
+
+    Average memory Usage: 178.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.3MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.5%;
+
+    Average memory Usage: 177.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 158.4MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.5%;
+
+    Average memory Usage: 176.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.5MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.4%;
+
+    Average memory Usage: 174.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.6MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.3%;
+
+    Average memory Usage: 173.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.7MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 173.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.8MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 172.3MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 158.0MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 171.6MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 158.1MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 171.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 158.1MB;
+
+    Average stack usage: 116.4MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 170.4MB;
+
+    ------------------------------------
+    
+    CPU: 7.7%;
+
+    Memory: 163.1MB;
+
+    Average stack usage: 117.4MB;
+
+    Average CPU Usage: 1.4%;
+
+    Average memory Usage: 170.1MB;
+
+    ------------------------------------
+    
+    CPU: 2.4%;
+
+    Memory: 164.6MB;
+
+    Average stack usage: 118.6MB;
+
+    Average CPU Usage: 1.5%;
+
+    Average memory Usage: 169.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 164.9MB;
+
+    Average stack usage: 120.9MB;
+
+    Average CPU Usage: 1.4%;
+
+    Average memory Usage: 169.6MB;
+
+    ------------------------------------
+    
+    CPU: 3.1%;
+
+    Memory: 166.6MB;
+
+    Average stack usage: 121.4MB;
+
+    Average CPU Usage: 1.5%;
+
+    Average memory Usage: 169.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.2MB;
+
+    Average stack usage: 121.6MB;
+
+    Average CPU Usage: 1.4%;
+
+    Average memory Usage: 169.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 168.1MB;
+
+    Average stack usage: 121.9MB;
+
+    Average CPU Usage: 1.4%;
+
+    Average memory Usage: 169.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 168.5MB;
+
+    Average stack usage: 121.9MB;
+
+    Average CPU Usage: 1.3%;
+
+    Average memory Usage: 169.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 165.6MB;
+
+    Average stack usage: 125.9MB;
+
+    Average CPU Usage: 1.3%;
+
+    Average memory Usage: 169.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 168.9MB;
+
+    Average stack usage: 127.1MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 169.2MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 170.7MB;
+
+    Average stack usage: 127.1MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 169.3MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 170.9MB;
+
+    Average stack usage: 127.1MB;
+
+    Average CPU Usage: 1.3%;
+
+    Average memory Usage: 169.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 172.0MB;
+
+    Average stack usage: 127.6MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 169.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 174.1MB;
+
+    Average stack usage: 127.6MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 169.5MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 174.2MB;
+
+    Average stack usage: 127.6MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 169.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 174.1MB;
+
+    Average stack usage: 127.9MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 169.8MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 174.3MB;
+
+    Average stack usage: 128.6MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 169.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 174.3MB;
+
+    Average stack usage: 128.6MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 170.0MB;
+
+    ------------------------------------
+    
+    CPU: 3.2%;
+
+    Memory: 175.0MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 170.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 173.7MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 170.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memory: 175.2MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 170.3MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 174.9MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.2%;
+
+    Average memory Usage: 170.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 177.6MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 170.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 178.3MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 170.8MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 180.6MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 171.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.6MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 171.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.6MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 171.4MB;
+
+    ------------------------------------
+    
+    CPU: 3.1%;
+
+    Memory: 180.6MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 171.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.6MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 171.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.7MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 171.9MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 180.7MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 172.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 180.7MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 172.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.7MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 172.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.8MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 172.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.9MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 172.7MB;
+
+    ------------------------------------
+    
+    CPU: 3.1%;
+
+    Memory: 181.3MB;
+
+    Average stack usage: 136.9MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 172.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 181.3MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 181.3MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 173.2MB;
+
+    ------------------------------------
+    
+    CPU: 3.1%;
+
+    Memory: 181.3MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.3MB;
+
+    ------------------------------------
+    
+    CPU: 3.2%;
+
+    Memory: 179.0MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.4MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 179.5MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 179.6MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memory: 179.7MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.7MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 173.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.1%;
+
+    Average memory Usage: 174.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 1.0%;
+
+    Average memory Usage: 174.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 174.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 174.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 174.9MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 174.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 175.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 175.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 175.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 175.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 175.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.9%;
+
+    Average memory Usage: 175.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.5MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.6MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.7MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.8%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 175.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 176.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 176.0MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 176.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 176.1MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 176.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 176.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.8%;
+
+    Average memory Usage: 176.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.4MB;
+
+    ------------------------------------
+    
+    CPU: 1.6%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 180.2MB;
+
+    Average stack usage: 137.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.5MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.4MB;
+
+    ------------------------------------
+    
+    CPU: 1.5%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.4MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.3MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.2MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.1MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 176.0MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 175.9MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 175.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 167.5MB;
+
+    Average stack usage: 122.4MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 175.8MB;
+
+    ------------------------------------
+    
+    CPU: 0.0%;
+
+    Memory: 166.4MB;
+
+    Average stack usage: 122.1MB;
+
+    Average CPU Usage: 0.7%;
+
+    Average memory Usage: 175.7MB;
+
+    ------------------------------------
+    

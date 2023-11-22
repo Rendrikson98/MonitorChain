@@ -1,0 +1,28 @@
+
+    All request information: PATCH /updateVideo 400 54.768ms;
+
+        Method: PATCH;
+
+        URL: /updateVideo;
+
+        statusCode: 400;
+
+        Response time: 54.768ms;
+
+        Total unit of gas used: 0
+
+        Total requests: 1;
+
+        Total successful requests: 0;
+
+        Total failed requests: 1;
+
+        Total cost(US$): 0;
+
+        Current cryptocurrency price(US$): 2022.39;
+
+        cryptocurrency: ETH;
+
+        Gas Price(Gwei): 20000000000
+        ------------------------------------
+        

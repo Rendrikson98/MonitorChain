@@ -1,6 +1,5 @@
 import express from 'express';
-import { getInfoVideo, updateInfo } from './controller/ethController';
-
+const { getInfoVideo, updateInfo } = require('./controller/ethController');
 const routes = express.Router();
 
 routes.get('/', (req: any, res: any, next: any) => {
@@ -12,7 +11,7 @@ routes.get('/', (req: any, res: any, next: any) => {
 routes.patch('/updateVideo', async (req: any, res: any) => {
   try {
     const response = await updateInfo(
-      '0x824eBef88f7395eA699CC38CC2C62567fA1bB0A7', //address contract in network fantom
+      '0x8a114600f5f2649ed014EC587f40BE479abd99ee', //address contract in network fantom
       60
     );
     res.status(200).json({ data: response });
@@ -24,7 +23,7 @@ routes.patch('/updateVideo', async (req: any, res: any) => {
 routes.get('/getInfoVideo', async (req: any, res: any) => {
   try {
     const response = await getInfoVideo(
-      '0x824eBef88f7395eA699CC38CC2C62567fA1bB0A7'
+      '0x8a114600f5f2649ed014EC587f40BE479abd99ee'
     );
     res.status(200).json({ data: response });
   } catch (error) {

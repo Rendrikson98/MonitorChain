@@ -1,0 +1,109 @@
+
+    All request information: GET / 200 23.046ms;
+
+        Method: GET;
+
+        URL: /;
+
+        statusCode: 200;
+
+        Response time: 23.046ms;
+
+        Total unit of gas used: 0
+
+        Total requests: 1;
+
+        Total successful requests: 1;
+
+        Total failed requests: 0;
+
+        Total cost(US$): 0;
+
+        Current cryptocurrency price(US$): 0;
+
+        cryptocurrency: ETH;
+
+        Gas Price(Gwei): 20000000000
+        ------------------------------------
+        
+    All request information: GET /getInfoVideo 400 25.904ms;
+
+        Method: GET;
+
+        URL: /getInfoVideo;
+
+        statusCode: 400;
+
+        Response time: 25.904ms;
+
+        Total unit of gas used: 0
+
+        Total requests: 2;
+
+        Total successful requests: 1;
+
+        Total failed requests: 1;
+
+        Total cost(US$): 0;
+
+        Current cryptocurrency price(US$): 2022.39;
+
+        cryptocurrency: ETH;
+
+        Gas Price(Gwei): 20000000000
+        ------------------------------------
+        
+    All request information: PATCH /updateInfoVideo 404 1.582ms;
+
+        Method: PATCH;
+
+        URL: /updateInfoVideo;
+
+        statusCode: 404;
+
+        Response time: 1.582ms;
+
+        Total unit of gas used: 0
+
+        Total requests: 3;
+
+        Total successful requests: 1;
+
+        Total failed requests: 2;
+
+        Total cost(US$): 0;
+
+        Current cryptocurrency price(US$): 2022.39;
+
+        cryptocurrency: ETH;
+
+        Gas Price(Gwei): 20000000000
+        ------------------------------------
+        
+    All request information: PATCH /updateVideo 400 6.187ms;
+
+        Method: PATCH;
+
+        URL: /updateVideo;
+
+        statusCode: 400;
+
+        Response time: 6.187ms;
+
+        Total unit of gas used: 0
+
+        Total requests: 4;
+
+        Total successful requests: 1;
+
+        Total failed requests: 3;
+
+        Total cost(US$): 0;
+
+        Current cryptocurrency price(US$): 2022.39;
+
+        cryptocurrency: ETH;
+
+        Gas Price(Gwei): 20000000000
+        ------------------------------------
+        

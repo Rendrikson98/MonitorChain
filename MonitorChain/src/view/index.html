@@ -163,7 +163,7 @@
           <canvas id="Memory"></canvas>
         </div>
       </div>
-      <div class="title">Requisition Information  
+      <div class="title">Request Information  
         <div class="donwload" onclick="downloadRequisition()">
         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAg0lEQVR4nO2UOwqAMBBE3zWsLCxsLLSw8vYGPYSghYVgIR4hErAQ/58EQfNgIBCYIRN24U9kgBwlTATImWzAAmkr+l5F1Yrplso7ATHQnTDvgeTuKyKg3TFXdyEP8YF6xbwBAjThAsXEXP2Ph2YcIB+3qjpb9CMuDJY8kDAdkBoo4CUG+aZ0PJTVTQsAAAAASUVORK5CYII=">
         Report
@@ -188,6 +188,16 @@
         <div class="card gray">
           <span id='latestStatusCode'>-</span>
           <p>Latest Method Request</p>
+        </div>
+      </div>
+      <div class="containerCard" style="margin-top: 50px;">
+        <div class="card green">
+          <span id='currentCurrency'>-</span>
+          <p>Current Currency</p>
+        </div>
+        <div class="card blue" style="width: fit-content; min-width: 250px;">
+          <span id='estimatedCost'>-</span>
+          <p>Estimated Cost</p>
         </div>
       </div>
       <div class="containerGraphs">
@@ -372,6 +382,12 @@
 
         const latestStatusCode = document.getElementById('latestStatusCode');
         latestStatusCode.textContent = data.method
+
+        const estimatedCost = document.getElementById('estimatedCost');
+        estimatedCost.textContent = `US$ ${data.costTransactions}`
+        
+        const currentCurrency = document.getElementById('currentCurrency');
+        currentCurrency.textContent = data.cryptoCurrency
 
         const hourAndMinute = new Date();
 
